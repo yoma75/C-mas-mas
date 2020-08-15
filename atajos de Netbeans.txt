@@ -1,0 +1,9 @@
+SUBLIME TEXT3:
+sout = System.out.println(" ");
+iif = genera el if
+
+
+visual studio code:
+syso = System.out.println(" ");
+
+
